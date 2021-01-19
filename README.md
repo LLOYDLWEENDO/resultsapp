@@ -5,3 +5,5 @@ It covers:-
 # Variables
 # Functions
 # Logic Operators
+# Simple Bar Chart
+# Access Form Inputs
