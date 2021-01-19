@@ -1,1 +1,18 @@
+		.checkout {
+		height: 400px;
+		width: 600px;
+		margin: 20px auto;
+		border: 2px solid black;
+		text-align: center;
+		}
 
+		.tr1 {
+		background-color: #beb2b2;
+		}
+
+		progress {
+			color: green;
+		}
+		table {
+		background-color: #fff6d0;
+		}
